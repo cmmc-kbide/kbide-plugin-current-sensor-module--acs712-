@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-current-sensor-module--acs712-",
+  "title": "current-sensor-module--acs712-",
+  "keywords": "current-sensor-module--acs712-, esp32, esp8266, arduino",
+  "description": "current-sensor-module--acs712- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-current-sensor-module--acs712-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-current-sensor-module--acs712-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
